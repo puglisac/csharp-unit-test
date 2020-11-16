@@ -6,7 +6,7 @@ namespace UnitTestingProject
     public class FlowControl
     
     {
-
+        //using Not
         public string IsYourNameNotBruce(string yourName)
         {
             if(yourName.ToLower()!= "bruce")
